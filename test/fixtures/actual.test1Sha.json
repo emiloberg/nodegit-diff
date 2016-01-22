@@ -1,0 +1,34 @@
+[
+    {
+        "chunks": [
+            [
+                {
+                    "content": "This",
+                    "newLineno": 1,
+                    "oldLineno": -1,
+                    "origin": "+"
+                },
+                {
+                    "content": "is",
+                    "newLineno": 2,
+                    "oldLineno": -1,
+                    "origin": "+"
+                },
+                {
+                    "content": "file",
+                    "newLineno": 3,
+                    "oldLineno": -1,
+                    "origin": "+"
+                },
+                {
+                    "content": "C",
+                    "newLineno": 4,
+                    "oldLineno": -1,
+                    "origin": "+"
+                }
+            ]
+        ],
+        "filename": "fileC.txt",
+        "isAdded": true
+    }
+]

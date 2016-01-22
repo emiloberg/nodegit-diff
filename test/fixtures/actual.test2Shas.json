@@ -1,0 +1,270 @@
+[
+    {
+        "chunks": [
+            [
+                {
+                    "content": "l",
+                    "newLineno": 12,
+                    "oldLineno": 12,
+                    "origin": " "
+                },
+                {
+                    "content": "m",
+                    "newLineno": 13,
+                    "oldLineno": 13,
+                    "origin": " "
+                },
+                {
+                    "content": "n",
+                    "newLineno": 14,
+                    "oldLineno": 14,
+                    "origin": " "
+                },
+                {
+                    "content": "Added this line",
+                    "newLineno": 15,
+                    "oldLineno": -1,
+                    "origin": "+"
+                },
+                {
+                    "content": "o",
+                    "newLineno": 16,
+                    "oldLineno": 15,
+                    "origin": " "
+                },
+                {
+                    "content": "p",
+                    "newLineno": 17,
+                    "oldLineno": 16,
+                    "origin": " "
+                },
+                {
+                    "content": "q",
+                    "newLineno": 18,
+                    "oldLineno": 17,
+                    "origin": " "
+                }
+            ],
+            [
+                {
+                    "content": "ii",
+                    "newLineno": 35,
+                    "oldLineno": 34,
+                    "origin": " "
+                },
+                {
+                    "content": "jj",
+                    "newLineno": 36,
+                    "oldLineno": 35,
+                    "origin": " "
+                },
+                {
+                    "content": "kk",
+                    "newLineno": 37,
+                    "oldLineno": 36,
+                    "origin": " "
+                },
+                {
+                    "content": "Another added line",
+                    "newLineno": 38,
+                    "oldLineno": -1,
+                    "origin": "+"
+                },
+                {
+                    "content": "Added from third commit",
+                    "newLineno": 39,
+                    "oldLineno": -1,
+                    "origin": "+"
+                },
+                {
+                    "content": "ll",
+                    "newLineno": 40,
+                    "oldLineno": 37,
+                    "origin": " "
+                },
+                {
+                    "content": "mm",
+                    "newLineno": 41,
+                    "oldLineno": 38,
+                    "origin": " "
+                },
+                {
+                    "content": "nn",
+                    "newLineno": 42,
+                    "oldLineno": 39,
+                    "origin": " "
+                }
+            ],
+            [
+                {
+                    "content": "uu",
+                    "newLineno": 49,
+                    "oldLineno": 46,
+                    "origin": " "
+                },
+                {
+                    "content": "vv",
+                    "newLineno": 50,
+                    "oldLineno": 47,
+                    "origin": " "
+                },
+                {
+                    "content": "xx",
+                    "newLineno": 51,
+                    "oldLineno": 48,
+                    "origin": " "
+                },
+                {
+                    "content": "yy",
+                    "newLineno": -1,
+                    "oldLineno": 49,
+                    "origin": "-"
+                },
+                {
+                    "content": "zz",
+                    "newLineno": 52,
+                    "oldLineno": 50,
+                    "origin": " "
+                },
+                {
+                    "content": "\n\\ No newline at end of file",
+                    "newLineno": 52,
+                    "oldLineno": 50,
+                    "origin": "="
+                }
+            ]
+        ],
+        "filename": "fileA.txt",
+        "isAdded": false
+    },
+    {
+        "chunks": [
+            [
+                {
+                    "content": "iiii",
+                    "newLineno": 9,
+                    "oldLineno": 9,
+                    "origin": " "
+                },
+                {
+                    "content": "jjjj",
+                    "newLineno": 10,
+                    "oldLineno": 10,
+                    "origin": " "
+                },
+                {
+                    "content": "kkkk",
+                    "newLineno": 11,
+                    "oldLineno": 11,
+                    "origin": " "
+                },
+                {
+                    "content": "Added in file B",
+                    "newLineno": 12,
+                    "oldLineno": -1,
+                    "origin": "+"
+                },
+                {
+                    "content": "llll",
+                    "newLineno": 13,
+                    "oldLineno": 12,
+                    "origin": " "
+                },
+                {
+                    "content": "mmmm",
+                    "newLineno": 14,
+                    "oldLineno": 13,
+                    "origin": " "
+                },
+                {
+                    "content": "nnnn",
+                    "newLineno": 15,
+                    "oldLineno": 14,
+                    "origin": " "
+                }
+            ],
+            [
+                {
+                    "content": "bbbbbbbb",
+                    "newLineno": 28,
+                    "oldLineno": 27,
+                    "origin": " "
+                },
+                {
+                    "content": "cccccccc",
+                    "newLineno": 29,
+                    "oldLineno": 28,
+                    "origin": " "
+                },
+                {
+                    "content": "dddddddd",
+                    "newLineno": 30,
+                    "oldLineno": 29,
+                    "origin": " "
+                },
+                {
+                    "content": "eeeeeeee",
+                    "newLineno": -1,
+                    "oldLineno": 30,
+                    "origin": "-"
+                },
+                {
+                    "content": "ffffffff",
+                    "newLineno": 31,
+                    "oldLineno": 31,
+                    "origin": " "
+                },
+                {
+                    "content": "gggggggg",
+                    "newLineno": 32,
+                    "oldLineno": 32,
+                    "origin": " "
+                },
+                {
+                    "content": "hhhhhhhh",
+                    "newLineno": 33,
+                    "oldLineno": 33,
+                    "origin": " "
+                },
+                {
+                    "content": "iiiiiiii",
+                    "newLineno": 34,
+                    "oldLineno": 34,
+                    "origin": " "
+                },
+                {
+                    "content": "jjjjjjjj",
+                    "newLineno": 35,
+                    "oldLineno": 35,
+                    "origin": " "
+                },
+                {
+                    "content": "Second added in file B",
+                    "newLineno": 36,
+                    "oldLineno": -1,
+                    "origin": "+"
+                },
+                {
+                    "content": "kkkkkkkk",
+                    "newLineno": 37,
+                    "oldLineno": 36,
+                    "origin": " "
+                },
+                {
+                    "content": "llllllll",
+                    "newLineno": 38,
+                    "oldLineno": 37,
+                    "origin": " "
+                },
+                {
+                    "content": "mmmmmmmm",
+                    "newLineno": 39,
+                    "oldLineno": 38,
+                    "origin": " "
+                }
+            ]
+        ],
+        "filename": "fileB.txt",
+        "isAdded": false
+    }
+]

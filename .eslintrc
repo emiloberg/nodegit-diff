@@ -1,0 +1,22 @@
+{
+  "ecmaFeatures": {
+    "modules": true
+  },
+  "env": {
+    "node": true
+  },
+  "parser": "babel-eslint",
+  "rules": {
+    "strict": [2, "never"],
+    "quotes": [2, "single", "avoid-escape"],
+    "no-use-before-define": 0,
+    "no-underscore-dangle": 0,
+    "eol-last": 2,
+    "no-trailing-spaces": 2,
+    "no-unused-vars": 2,
+    "key-spacing": 0,
+    "comma-dangle": 0,
+    "indent": 0,
+    "spaced-comment": 0
+  }
+}
