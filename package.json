@@ -25,7 +25,7 @@
   "author": {
     "name": "Emil Oberg"
   },
-  "license": "Apache",
+  "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/emiloberg/nodegit-diff/issues"
   },
