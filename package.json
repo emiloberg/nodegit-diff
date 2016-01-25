@@ -10,7 +10,8 @@
     "test": "npm run build && ava --verbose test/tests/*.js",
     "lint": "eslint src test/tests",
     "coverage": "nyc npm test",
-    "coverage:report": "nyc npm test && nyc report --reporter=text-lcov > coverage.lcov"
+    "coverage:report": "nyc npm test && nyc report --reporter=html",
+    "coveralls": "nyc npm test && nyc report --reporter=text-lcov | coveralls"
   },
   "repository": {
     "type": "git",
@@ -34,6 +35,7 @@
     "babel-cli": "^6.4.5",
     "babel-eslint": "^4.1.6",
     "babel-preset-es2015": "^6.3.13",
+    "coveralls": "^2.11.6",
     "eslint": "^1.10.3",
     "fs-extra": "^0.26.4",
     "nodegit": "^0.8.0",
